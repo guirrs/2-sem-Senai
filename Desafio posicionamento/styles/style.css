@@ -1,0 +1,78 @@
+img{
+    width: 200px;
+}
+
+.div-flex{
+    background-color: aqua;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.fantasma{
+    width: 130px;
+}
+
+
+.espacado1{
+    background-color: aqua;   
+    /* ajusta os elementos em linhas */
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.espacado2{
+    justify-content: space-around;
+}
+
+.centralizado{
+    justify-content: center;
+}
+
+.direita{
+    justify-content: flex-end;
+}
+
+.direita-amarelo{
+    justify-content: space-between;
+}
+
+.amarelo{
+    background-color: yellow;
+}
+
+.amarelo-novo{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+}
+
+.coluna{
+    /* deixa em colunas */
+    flex-direction: column;
+    height: 960px;
+    align-items: self-start;
+    background-color: aqua;
+    
+}
+
+.roxado{
+    background-color: rgb(146, 88, 184);   
+    /* ajusta os elementos em linhas */
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 960px;
+    align-items: self-start;
+}
+
+.linha1{
+    background-color: rgb(146, 88, 184);   
+    justify-content: space-between;
+}
+
+.linha2{
+    background-color: rgb(146, 88, 184);
+    justify-content: space-between;
+}

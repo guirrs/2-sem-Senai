@@ -1,0 +1,97 @@
+/* o *(asterisco) eh considerado global */
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    /* margin eh a margem */
+    margin: 0;
+    /* padding o espacamento dentro da pagina */
+    padding: 0;
+    /* ele ajusta o tamanho real do elemento */
+    box-sizing: border-box;
+}
+/* body pega tudo que esta no body do html, menos o filhos dos filhos */
+body{
+    /* background eh para o fundo da pagina enquanto o color, para as letras */
+    background-color: #0b0e14;
+    color: #ffffff;
+    padding: 50px;
+}
+
+/* quando quiser estilizar uma classe, pegue e use .(classe) */
+.banner{
+    /* linear-gradient eh para por alteracoes na imagem, sendo o deg e posicionamento em graus, rgba as cores( red, green, blue, transparencia) */
+    background-image: linear-gradient(180deg, rgba(11,14,20,0), rgba(11,14,20, 0.6)),url("https://picsum.photos/600/300");
+    /* background-position vai posicionar o background, caso a imagem seja muito pequena, ela ira se multiplicar */
+    background-position: center;
+    /*  backgorund-repeat evita de multiplicar a imagem */
+    background-repeat: no-repeat;
+    /* background-size regula o tamanho, como eh cover, vai ser todo a tela */
+    background-size: cover;
+
+    padding: 50px;
+    text-align: center;
+    /*
+    background-color: aqua;
+    /** quando coloca dois valores na margem sao usados: cima e embaixo/ esquerda e direita, quando sao tres: cima e emabixo/esquerda/
+    direta, e quatro: cima/ direita/ esquerda/ baixo */
+    /*margin: 10px 30px 15px 20px;
+    /** tambem pode ser usado assim, porem, pesa mais o site e caso esteja na nuvem, gasto mais dinheiro */
+   /* margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 15px;
+    margin-right: 20px;
+    padding: 50px;*/
+}
+
+/* .banner (p) chama todos os p dos banner */
+.banner p{
+    margin: 5px 0 0;
+    color: #d9e6ff;
+}
+
+.destaque {
+    color: #0a7cff;
+}
+
+/* # porque eh um id */
+#especial{
+    background-color: #394c7b;
+    padding: 5px;
+    /* border-radius eh para ter um raio nas bordas */
+    border-radius: 5px;
+    width: 500px;
+}
+
+img{
+    max-width: 50%;
+    border-radius: 8px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+}
+
+/* por th, td para por configuracoes iguais */
+th, td{
+    border: 1px solid #1a2030;
+    padding: 8px;
+}
+
+th{
+    background-color: #101522;
+}
+
+.button{
+    background-color: #0a7cff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 6px;
+    color: #ffffff;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: #005bb5;
+    padding: 20px 30px;
+}

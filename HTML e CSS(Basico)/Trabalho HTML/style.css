@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+.div-flex{
+    display: flex;
+}
+
+.banner{
+    background-color: #c20404;
+    color: #FFFFFF;
+    padding: 20px;
+    background-position: center;
+
+    text-align: center;
+    font-size: x-large;
+}
+
+.titulo{
+    font-size:x-large;
+    color: #000000;
+    text-align: center;
+}
+.imagem{
+    /* margin: 0 auto deixa a imagem automaticamente no centro */
+    margin: 0 auto;
+    max-width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.Introducao{
+    margin-top: 30px;
+    display: flex;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding: 10px;
+    font-size: x-large;
+    justify-content: center;
+}
+
+.Pos{
+    margin: 0 auto;
+    display: flex;
+    margin-right: 400px;
+    margin-left: 450px;
+    margin-bottom: 50PX;
+    padding: 10px;
+    background-position: center;
+    font-size: xx-large;
+}
+
+.cadastro{
+    margin-top: 100px;
+    display: flex;
+    font-size: large;
+}
+
+button{
+    background-color: rgb(12, 149, 228);
+    color: white;
+}
