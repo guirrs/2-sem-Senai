@@ -1,5 +1,4 @@
 //? BASICO
-/*
 //* Exercicio 1
 for(i = 0; i<= 10; i++)
 {
@@ -28,10 +27,16 @@ for(i = 0; numeroSoma <= numeroUsuario; i++)
 
 //? INTERMEDIARIO
 
-//! Exercicio 1
+//* Exercicio 1
 
-let numeroPares;
-
+let numeroPares = 1;
+console.log(numeroPares);
+numeroPares = 2;
+while(numeroPares <= 50)
+{
+    console.log(numeroPares);
+    numeroPares += 2;
+}
 
 //* Exercicio 2
 let numeroSorteado = 67;
@@ -57,22 +62,20 @@ while(contagem >= 0)
     console.log("Tempo: " + contagem);
     contagem -= 1;
 }
-*/
+
 //? AVANCADO
 
 //* Exercicio 1
 
-let numeroInserido = parseInt(prompt("Insira um numero para saber a soma de suas casas decimais"));
-let numeroDeCasas = 1;
-let somaNumero = 0;
+let numeroInserido = prompt("Insira um numero para saber a soma de suas casas decimais");
+let numerosCasas = numeroInserido.length;
+let somaNumeros = 0;
 
-while(numeroInserido >= 1)
+for(let i = 0; i < numerosCasas; i++)
 {
-  numeroInserido /= 10;
-  somaNumero += numeroDeCasas;
-  console.log(somaNumero);
-  numeroDeCasas += 1;
+   somaNumeros += parseInt(numeroInserido[i]);
 }
+console.log(somaNumeros);
 
 //* Exercicio 2
 
@@ -85,3 +88,31 @@ for( i = fatorialUsuario ; i >= 1; i--)
  console.log(fatorial);
 
  //* Exercicio 3
+
+ let inverteNumeros = prompt("Insira um numero para ser invertido");
+ let numerosPresentes = inverteNumeros.length - 1;
+ let numeroInvertido = "";
+
+ while(numerosPresentes >= 0)
+ {
+    numeroInvertido += inverteNumeros[numerosPresentes]
+    numerosPresentes--;
+ }
+console.log(numeroInvertido);
+
+//* Exercicio 4
+
+let numeroInseridoPer = parseInt(prompt("Insira uma numero para ver se ele eh perfeit0"))
+let somaPer = 0;
+
+for(i = 0; somaPer <= numeroInseridoPer - 1; i++)
+{
+    console.log(somaPer);
+    somaPer += i
+}
+console.log(somaPer);
+if(somaPer == numeroInseridoPer)
+    console.log("Numero eh perfeito")
+else
+    console.log("Nao eh perfeito")
+
