@@ -153,4 +153,9 @@ const ususarioIdade = usuarios.find(usuario2 => usuarios2.idade > 21)
 const nomesUsuarios = usuarios2.map(usuario2 => usuario2.nome)
 
 //* Somar todas as idades dos usuarios usando o reduce
-const somaIdades = usuarios2.reduce((total, usuarios2) => )
+const somaIdades = usuarios2.reduce((total, usuarios2) => total + usuarios2.idade, 0)
+
+console.log(maioresDeIdade);
+console.log(ususarioIdade);
+console.log(nomesUsuarios);
+console.log(somaIdades);
