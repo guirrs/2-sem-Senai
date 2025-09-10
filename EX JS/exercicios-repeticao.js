@@ -1,5 +1,6 @@
 //? BASICO
 //* Exercicio 1
+/*
 for(i = 0; i<= 10; i++)
 {
     console.log(i);
@@ -39,7 +40,9 @@ while(numeroPares <= 50)
 }
 
 //* Exercicio 2
-let numeroSorteado = 67;
+//Math.floor arredonda
+//Math.randowm = gera um numero aleatorio de 0 a 1 (sem incluir o 1)
+let numeroSorteado = Math.floor(Math.random() * 100);
 let numeroAdivinhado = parseInt(prompt("Adivinhe o numero sorteado: "))
 
 while(numeroSorteado != numeroAdivinhado )
@@ -59,8 +62,7 @@ contagem = parseInt(prompt("Escolhe o tempo da contagem regressiva"))
 
 while(contagem >= 0)
 {
-    console.log("Tempo: " + contagem);
-    contagem -= 1;
+    console.log("Tempo: " + --contagem);
 }
 
 //? AVANCADO
@@ -101,18 +103,46 @@ for( i = fatorialUsuario ; i >= 1; i--)
 console.log(numeroInvertido);
 
 //* Exercicio 4
-
+*/
 let numeroInseridoPer = parseInt(prompt("Insira uma numero para ver se ele eh perfeit0"))
 let somaPer = 0;
+let divisores = 0;
 
-for(i = 0; somaPer <= numeroInseridoPer - 1; i++)
+for(let i = 0; i <= numeroInseridoPer; i++ )
 {
-    console.log(somaPer);
-    somaPer += i
+    if(i % numeroInseridoPer == 0)
+        divisores += i;
+
+    if(divisores == numeroInseridoPer)
+        console.log("")
+    
 }
-console.log(somaPer);
+console.log();
+
 if(somaPer == numeroInseridoPer)
     console.log("Numero eh perfeito")
 else
     console.log("Nao eh perfeito")
 
+
+//* DESAFIO
+
+let somaPerfeita = 0;
+let arrayPerfeitos = [];
+
+for(let n = 0; n <= 1000; n++)
+{
+
+    for(let i = 0; somaPerfeita <= n - 1; i++)
+        {
+            somaPerfeita += i
+        }
+        
+    if(somaPerfeita == n)
+    {
+        arrayPerfeitos.push(n);
+    }
+    somaPerfeita = 0;
+}
+
+console.log(arrayPerfeitos);
