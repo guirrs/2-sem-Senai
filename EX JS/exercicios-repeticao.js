@@ -1,6 +1,5 @@
 //? BASICO
 //* Exercicio 1
-/*
 for(i = 0; i<= 10; i++)
 {
     console.log(i);
@@ -103,7 +102,7 @@ for( i = fatorialUsuario ; i >= 1; i--)
 console.log(numeroInvertido);
 
 //* Exercicio 4
-*/
+
 let numeroInseridoPer = parseInt(prompt("Insira uma numero para ver se ele eh perfeit0"))
 let somaPer = 0;
 let divisores = 0;
