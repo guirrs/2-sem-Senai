@@ -64,3 +64,79 @@ INSERT INTO Emprestimo VALUES --id_emprestimo, id_livro, id_leitor, data_empr, d
 	(2, 4, 4, '2025-08-27', '2025-09-05'), -- kessia pegou o sonho de uma noite
 	(3, 1, 2, '2025-05-01', '2025-06-10'); --caique pegou Dom casmurro
 GO
+
+INSERT INTO Emprestimo VALUES
+(4,3,2,'2025-05-01', '2025-06-10')
+
+INSERT INTO Emprestimo VALUES
+(5,2,2,'2025-05-01', '2025-12-10')
+
+INSERT INTO Autor VALUES
+(6, 'Stan Lee')
+
+-- FUNCOES AGREGADAS
+
+-- Exercicio 1
+SELECT COUNT(id_Livro) AS Quantidade 
+FROM Livro
+
+--Exercicio 2
+--AVG faz a media dos valores
+SELECT AVG(ANO) AS MediaAno
+FROM Livro
+
+--Exercicio 3
+SELECT l.nome, COUNT(e.id_Emprestimo) AS NumeroEmprestimos FROM Leitor l
+INNER JOIN Emprestimo e ON l.id_Leitor = e.id_Leitor
+GROUP BY l.nome
+WHERE MAX(e.id_Emprestimo)
+
+
+
+--FUNCOES de TEXTO
+
+--Exercicio 1
+SELECT LEFT(nome,3) FROM Autor
+
+--Exercicio 2
+SELECT LOWER(titulo) FROM Livro
+
+--Exercicio 3
+SELECT email FROM Leitor
+WHERE RIGHT(email, 4) = '.com'
+
+--Exercicio 4
+SELECT REPLACE(titulo, 'estrela', 'sol') FROM Livro
+WHERE id_Livro = 3
+
+--FUNCOES DE DATA E HORA
+
+--Exercicio 1
+SELECT id_Emprestimo, id_Livro, DATEPART(MONTH, data_emprestimo) AS MesEmprestimo  FROM Emprestimo
+WHERE MONTH(data_emprestimo) = 8
+
+--Exercicio 2
+SELECT DATEDIFF(DAY, MIN(data_emprestimo) , MAX(data_emprestimo)) AS ComparacaoDias FROM Emprestimo
+
+--Exercicio 3
+SELECT id_Emprestimo, data_emprestimo, DATENAME(WEEKDAY, data_emprestimo) AS Semana FROM Emprestimo
+
+--OPERADORES DE COMPARACAO LOGICOS
+
+--Exercicio 1
+SELECT * FROM Livro
+WHERE ano BETWEEN 1950 AND 2005
+
+--Exercicio 2
+SELECT * FROM Leitor
+WHERE LEFT(nome,1) = 'C'
+
+--Exercicio 3
+SELECT * FROM Emprestimo
+WHERE YEAR(data_emprestimo) = 2025
+AND data_devolucao > GETDATE()
+
+--Exercicio 4
+SELECT * FROM Autor a
+LEFT JOIN Livro l ON l.id_Autor = a.id_Autor
+WHERE l.id_Autor IS NULL
