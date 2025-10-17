@@ -1,13 +1,15 @@
 ﻿// 
 using System.Runtime.ConstrainedExecution;
 
+//! PARA RODAR O CODIGO NO C# USE 
+//! DOTNET RUN
+
 namespace Backend;
 
 class Program
 {
     static void Main(string[] args)
     {
-        /*
         Console.WriteLine("Bem vindo(a) ao sistema.");
 
         //* Entrada de dados
@@ -28,19 +30,24 @@ class Program
         Console.WriteLine("VOCE EH MENOOOOO");
 
         //* Menu
+
+        int opcao = 0;
+        do{
         Console.WriteLine("\nEscolhe uma opcao:");
         Console.WriteLine("1- Ver a tabuada de um numero: ");
         Console.WriteLine("2- Contar ate um numero");
         Console.WriteLine("3- Sair");
         Console.WriteLine("Digite a sua opcao");
 
-        int opcao = int.Parse(Console.ReadLine());
+        opcao = int.Parse(Console.ReadLine());
 
-        swirch(opcao)
+        switch(opcao)
+        {
             case 1:
 
             Console.WriteLine($"\nInsira um valor:");
             int valorTabuada = int.Parse(Console.ReadLine());
+            Console.WriteLine($"\n");
 
             int tabuada = 0;
 
@@ -49,34 +56,35 @@ class Program
                 tabuada = valorTabuada;
                 tabuada *= i;
                 Console.WriteLine(tabuada);
+            }
         
             break;
 
-            case 2 :
+            case 2:
         
             Console.WriteLine($"\nInsira um valor:");
             int numeroContador = int.Parse(Console.ReadLine());
+            Console.WriteLine($"\n");
 
             for(int i = 0; i <= numeroContador; i++)
             {
                 Console.WriteLine(i);
             }
-        
+            break;
 
        case 3:
         Console.WriteLine($"Fim do Sistema");
+        Console.WriteLine($"\n");
         break;
+        }
+        }
 
-        default;
-
-        Console.WriteLine("Insira um valor validao");
-        opcao = int.Parse(Console.ReadLine());
+        while(opcao != 3);
         
-        break;
-        */
     //* Fibonnaci
     Console.WriteLine($"\nInsira um valor para o valor de Fibonnaci:");
     int numeroFibonnaci = int.Parse(Console.ReadLine());
+    Console.WriteLine($"\n");
 
     int resultado = 1;
     int resultadoAnterior = 0;
