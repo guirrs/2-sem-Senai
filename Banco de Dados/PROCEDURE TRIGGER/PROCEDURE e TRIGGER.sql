@@ -344,3 +344,29 @@ VALUES('Kessia', '434343433')
 
 SELECT * FROM Funcionario
 SELECT * FROM LogFuncionario
+
+
+--Funcoes Textos
+
+--Exercicio 1
+
+SELECT CONCAT(Nome, ' ', Sobrenome) AS NomeCompleto FROM Cliente 
+
+--Exercicio 2
+SELECT UPPER(Nome) AS NomeMaiusculo FROM Produto
+
+--Exercicio 3
+SELECT SUBSTRING(Nome, 1, 3) FROM Cliente
+
+--Exercicio 4
+SELECT CHARINDEX('@', Email) FROM Cliente
+
+--Funcoes Numericas
+
+--Exercicio 1
+
+SELECT * FROM Produto
+    UPDATE Produto SET Preco = 70
+    WHERE ProdutoID = 2 
+
+--Exercicio 2
