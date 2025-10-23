@@ -1,0 +1,15 @@
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade ClasseAbstrata\obj\Debug\net9.0\Atividade ClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade ClasseAbstrata\obj\Debug\net9.0\Atividade ClasseAbstrata.AssemblyInfoInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade ClasseAbstrata\obj\Debug\net9.0\Atividade ClasseAbstrata.AssemblyInfo.cs
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade ClasseAbstrata\obj\Debug\net9.0\Atividade ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade ClasseAbstrata\obj\Debug\net9.0\Atividade ClasseAbstrata.sourcelink.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade ClasseAbstrata\bin\Debug\net9.0\Atividade ClasseAbstrata.exe
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade ClasseAbstrata\bin\Debug\net9.0\Atividade ClasseAbstrata.deps.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade ClasseAbstrata\bin\Debug\net9.0\Atividade ClasseAbstrata.runtimeconfig.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade ClasseAbstrata\bin\Debug\net9.0\Atividade ClasseAbstrata.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade ClasseAbstrata\bin\Debug\net9.0\Atividade ClasseAbstrata.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade ClasseAbstrata\obj\Debug\net9.0\Atividade ClasseAbstrata.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade ClasseAbstrata\obj\Debug\net9.0\refint\Atividade ClasseAbstrata.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade ClasseAbstrata\obj\Debug\net9.0\Atividade ClasseAbstrata.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade ClasseAbstrata\obj\Debug\net9.0\Atividade ClasseAbstrata.genruntimeconfig.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade ClasseAbstrata\obj\Debug\net9.0\ref\Atividade ClasseAbstrata.dll

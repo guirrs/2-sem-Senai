@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Aprofundamento POO/1.0.0": {
+        "runtime": {
+          "Aprofundamento POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aprofundamento POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

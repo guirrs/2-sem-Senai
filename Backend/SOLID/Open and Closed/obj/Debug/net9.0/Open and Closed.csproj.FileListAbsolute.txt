@@ -1,0 +1,15 @@
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\SOLID\Open and Closed\obj\Debug\net9.0\Open and Closed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\SOLID\Open and Closed\obj\Debug\net9.0\Open and Closed.AssemblyInfoInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\SOLID\Open and Closed\obj\Debug\net9.0\Open and Closed.AssemblyInfo.cs
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\SOLID\Open and Closed\obj\Debug\net9.0\Open and Closed.csproj.CoreCompileInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\SOLID\Open and Closed\obj\Debug\net9.0\Open and Closed.sourcelink.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\SOLID\Open and Closed\bin\Debug\net9.0\Open and Closed.exe
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\SOLID\Open and Closed\bin\Debug\net9.0\Open and Closed.deps.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\SOLID\Open and Closed\bin\Debug\net9.0\Open and Closed.runtimeconfig.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\SOLID\Open and Closed\bin\Debug\net9.0\Open and Closed.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\SOLID\Open and Closed\bin\Debug\net9.0\Open and Closed.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\SOLID\Open and Closed\obj\Debug\net9.0\Open and Closed.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\SOLID\Open and Closed\obj\Debug\net9.0\refint\Open and Closed.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\SOLID\Open and Closed\obj\Debug\net9.0\Open and Closed.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\SOLID\Open and Closed\obj\Debug\net9.0\Open and Closed.genruntimeconfig.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\SOLID\Open and Closed\obj\Debug\net9.0\ref\Open and Closed.dll

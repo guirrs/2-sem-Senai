@@ -1,0 +1,15 @@
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade Comparacao\obj\Debug\net9.0\Atividade Comparacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade Comparacao\obj\Debug\net9.0\Atividade Comparacao.AssemblyInfoInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade Comparacao\obj\Debug\net9.0\Atividade Comparacao.AssemblyInfo.cs
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade Comparacao\obj\Debug\net9.0\Atividade Comparacao.csproj.CoreCompileInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade Comparacao\obj\Debug\net9.0\Atividade Comparacao.sourcelink.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade Comparacao\bin\Debug\net9.0\Atividade Comparacao.exe
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade Comparacao\bin\Debug\net9.0\Atividade Comparacao.deps.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade Comparacao\bin\Debug\net9.0\Atividade Comparacao.runtimeconfig.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade Comparacao\bin\Debug\net9.0\Atividade Comparacao.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade Comparacao\bin\Debug\net9.0\Atividade Comparacao.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade Comparacao\obj\Debug\net9.0\Atividade Comparacao.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade Comparacao\obj\Debug\net9.0\refint\Atividade Comparacao.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade Comparacao\obj\Debug\net9.0\Atividade Comparacao.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade Comparacao\obj\Debug\net9.0\Atividade Comparacao.genruntimeconfig.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Atividade POO\Atividade Comparacao\obj\Debug\net9.0\ref\Atividade Comparacao.dll
