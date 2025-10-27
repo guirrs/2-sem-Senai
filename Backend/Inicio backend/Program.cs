@@ -4,11 +4,8 @@ using System.Runtime.ConstrainedExecution;
 //! PARA RODAR O CODIGO NO C# USE 
 //! DOTNET RUN
 
-<<<<<<< HEAD
+
 namespace Inicio_backend;
-=======
-namespace Backend;
->>>>>>> aef773f15806b4f6a4fe3418bb45526204113637
 
 class Program
 {
