@@ -11,6 +11,12 @@ namespace Hotel
         public string CPF{get;set;}
         public string Telefone{get;set;}
 
+        public Hospede(string nomeHospede, string CPF, string telefoneHospede)
+        {
+            Nome = nomeHospede;
+            this.CPF = CPF;
+            Telefone = telefoneHospede;
+        }
         public void ExibirInformacoes()
         {
             Console.WriteLine($"Nome: {Nome}");
