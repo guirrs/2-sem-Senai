@@ -10,13 +10,15 @@ namespace Hotel
         public int Numero;
         public string Tipo;
         public double PrecoDiaria;
-        public bool Disponivel = true;
+        public bool Disponivel;
         
         public Quarto(int numeroQuarto, string Tipo, double PrecoDiariaQuarto)
         {
             Numero = numeroQuarto;
             this.Tipo = Tipo;
             PrecoDiaria = PrecoDiariaQuarto;
+
+            Disponivel = true;
         }
 
         public void ExibirDetalhes()
@@ -28,8 +30,13 @@ namespace Hotel
 
         public void Ocupar()
         {
+            if(Disponivel)
+            {
             Console.WriteLine($"Quarto ocupado");
             Disponivel = false;
+            }
+            else
+            Console.WriteLine("O quarto ja esta ocupado");
         }
 
         public void Liberar()

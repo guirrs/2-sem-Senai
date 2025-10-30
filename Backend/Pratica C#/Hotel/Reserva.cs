@@ -16,7 +16,6 @@ namespace Hotel
             this.HospedeReserva = HospedeReserva;
             this.QuartoReserva = QuartoReserva;
             Dias = DiasReservas;
-            preco = Dias * QuartoReserva.PrecoDiaria;
         }
         public virtual void ResumoReserva()
         {
@@ -25,9 +24,10 @@ namespace Hotel
             Console.WriteLine($"Dias: {Dias}");
             Console.WriteLine($"Preco: {preco}");
         }
-        public virtual void CalcularTotal()
+        public virtual double CalcularTotal()
         {
-            Console.WriteLine($"Preco total: {preco}");
+            preco = Dias * QuartoReserva.PrecoDiaria;
+            return preco;
         }
     }
 }

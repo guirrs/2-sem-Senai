@@ -14,9 +14,13 @@ class Program
         Reserva Peble = new Reserva(Joao, QuartoSimples, 13);
         ReservaVip Burgues = new ReservaVip(Jaimir, QuartoSuite, 10, 0.1F);
 
-        Peble.ResumoReserva();
-        Console.Write("\n");
-        Burgues.ResumoReserva();
+        List<Reserva> reservas = new List<Reserva> {Peble, Burgues};
 
+        foreach(var reserva in reservas)
+        {
+            Console.WriteLine($"\n");
+            reserva.CalcularTotal();
+            reserva.ResumoReserva();
+        }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 1 - Sistema de Veiculos\obj\Debug\net9.0\Atividade 1 - Sistema de Veiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 1 - Sistema de Veiculos\obj\Debug\net9.0\Atividade 1 - Sistema de Veiculos.AssemblyInfoInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 1 - Sistema de Veiculos\obj\Debug\net9.0\Atividade 1 - Sistema de Veiculos.AssemblyInfo.cs
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 1 - Sistema de Veiculos\obj\Debug\net9.0\Atividade 1 - Sistema de Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 1 - Sistema de Veiculos\obj\Debug\net9.0\Atividade 1 - Sistema de Veiculos.sourcelink.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 1 - Sistema de Veiculos\bin\Debug\net9.0\Atividade 1 - Sistema de Veiculos.exe
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 1 - Sistema de Veiculos\bin\Debug\net9.0\Atividade 1 - Sistema de Veiculos.deps.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 1 - Sistema de Veiculos\bin\Debug\net9.0\Atividade 1 - Sistema de Veiculos.runtimeconfig.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 1 - Sistema de Veiculos\bin\Debug\net9.0\Atividade 1 - Sistema de Veiculos.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 1 - Sistema de Veiculos\bin\Debug\net9.0\Atividade 1 - Sistema de Veiculos.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 1 - Sistema de Veiculos\obj\Debug\net9.0\Atividade 1 - Sistema de Veiculos.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 1 - Sistema de Veiculos\obj\Debug\net9.0\refint\Atividade 1 - Sistema de Veiculos.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 1 - Sistema de Veiculos\obj\Debug\net9.0\Atividade 1 - Sistema de Veiculos.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 1 - Sistema de Veiculos\obj\Debug\net9.0\Atividade 1 - Sistema de Veiculos.genruntimeconfig.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 1 - Sistema de Veiculos\obj\Debug\net9.0\ref\Atividade 1 - Sistema de Veiculos.dll

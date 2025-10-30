@@ -13,3 +13,18 @@ C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Hotel\obj\Debug\net9.0\ref
 C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Hotel\obj\Debug\net9.0\Hotel.pdb
 C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Hotel\obj\Debug\net9.0\Hotel.genruntimeconfig.cache
 C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Hotel\obj\Debug\net9.0\ref\Hotel.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Hotel\obj\Debug\net9.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Hotel\obj\Debug\net9.0\Hotel.AssemblyInfoInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Hotel\obj\Debug\net9.0\Hotel.AssemblyInfo.cs
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Hotel\obj\Debug\net9.0\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Hotel\obj\Debug\net9.0\Hotel.sourcelink.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Hotel\obj\Debug\net9.0\Hotel.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Hotel\obj\Debug\net9.0\refint\Hotel.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Hotel\obj\Debug\net9.0\Hotel.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Hotel\bin\Debug\net9.0\Hotel.exe
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Hotel\bin\Debug\net9.0\Hotel.deps.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Hotel\bin\Debug\net9.0\Hotel.runtimeconfig.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Hotel\bin\Debug\net9.0\Hotel.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Hotel\bin\Debug\net9.0\Hotel.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Hotel\obj\Debug\net9.0\Hotel.genruntimeconfig.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Hotel\obj\Debug\net9.0\ref\Hotel.dll

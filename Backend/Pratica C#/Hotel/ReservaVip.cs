@@ -15,13 +15,13 @@ namespace Hotel
             this.QuartoReserva = QuartoReserva;
             Dias = DiasReservas;
             this.Desconto = Desconto;
-            preco = Dias * QuartoReserva.PrecoDiaria * (1 - Desconto);
         }
 
 
-        public override void CalcularTotal()
+        public override double CalcularTotal()
         {
-            Console.WriteLine($"Preco total: {preco}");
+            preco = Dias * QuartoReserva.PrecoDiaria * (1 - Desconto);
+            return preco;
         }
 
         public override void ResumoReserva()

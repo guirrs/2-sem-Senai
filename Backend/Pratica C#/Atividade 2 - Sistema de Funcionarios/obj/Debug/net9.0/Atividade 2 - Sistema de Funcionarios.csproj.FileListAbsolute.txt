@@ -1,0 +1,5 @@
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\obj\Debug\net9.0\Atividade 2 - Sistema de Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\obj\Debug\net9.0\Atividade 2 - Sistema de Funcionarios.AssemblyInfoInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\obj\Debug\net9.0\Atividade 2 - Sistema de Funcionarios.AssemblyInfo.cs
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\obj\Debug\net9.0\Atividade 2 - Sistema de Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\obj\Debug\net9.0\Atividade 2 - Sistema de Funcionarios.sourcelink.json
