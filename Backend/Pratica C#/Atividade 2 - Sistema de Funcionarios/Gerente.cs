@@ -26,7 +26,7 @@ namespace Atividade_2___Sistema_de_Funcionarios
 
         public override void ExibirResumo()
         {
-            Console.WriteLine($"Nome: {NomeGerente}\n Salario Total: {SalarioTotal}\n Bonus salarial: {Bonus}");
+            Console.WriteLine($"Nome: {NomeGerente}\n Salario Total: {SalarioTotal:F2}\n Bonus salarial: {Bonus}");
         }
     }
 }

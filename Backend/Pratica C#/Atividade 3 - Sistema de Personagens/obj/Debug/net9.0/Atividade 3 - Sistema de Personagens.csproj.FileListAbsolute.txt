@@ -1,0 +1,15 @@
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 3 - Sistema de Personagens\obj\Debug\net9.0\Atividade 3 - Sistema de Personagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 3 - Sistema de Personagens\obj\Debug\net9.0\Atividade 3 - Sistema de Personagens.AssemblyInfoInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 3 - Sistema de Personagens\obj\Debug\net9.0\Atividade 3 - Sistema de Personagens.AssemblyInfo.cs
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 3 - Sistema de Personagens\obj\Debug\net9.0\Atividade 3 - Sistema de Personagens.csproj.CoreCompileInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 3 - Sistema de Personagens\obj\Debug\net9.0\Atividade 3 - Sistema de Personagens.sourcelink.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 3 - Sistema de Personagens\bin\Debug\net9.0\Atividade 3 - Sistema de Personagens.exe
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 3 - Sistema de Personagens\bin\Debug\net9.0\Atividade 3 - Sistema de Personagens.deps.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 3 - Sistema de Personagens\bin\Debug\net9.0\Atividade 3 - Sistema de Personagens.runtimeconfig.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 3 - Sistema de Personagens\bin\Debug\net9.0\Atividade 3 - Sistema de Personagens.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 3 - Sistema de Personagens\bin\Debug\net9.0\Atividade 3 - Sistema de Personagens.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 3 - Sistema de Personagens\obj\Debug\net9.0\Atividade 3 - Sistema de Personagens.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 3 - Sistema de Personagens\obj\Debug\net9.0\refint\Atividade 3 - Sistema de Personagens.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 3 - Sistema de Personagens\obj\Debug\net9.0\Atividade 3 - Sistema de Personagens.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 3 - Sistema de Personagens\obj\Debug\net9.0\Atividade 3 - Sistema de Personagens.genruntimeconfig.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 3 - Sistema de Personagens\obj\Debug\net9.0\ref\Atividade 3 - Sistema de Personagens.dll

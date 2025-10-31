@@ -3,3 +3,13 @@ C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - S
 C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\obj\Debug\net9.0\Atividade 2 - Sistema de Funcionarios.AssemblyInfo.cs
 C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\obj\Debug\net9.0\Atividade 2 - Sistema de Funcionarios.csproj.CoreCompileInputs.cache
 C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\obj\Debug\net9.0\Atividade 2 - Sistema de Funcionarios.sourcelink.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\bin\Debug\net9.0\Atividade 2 - Sistema de Funcionarios.exe
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\bin\Debug\net9.0\Atividade 2 - Sistema de Funcionarios.deps.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\bin\Debug\net9.0\Atividade 2 - Sistema de Funcionarios.runtimeconfig.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\bin\Debug\net9.0\Atividade 2 - Sistema de Funcionarios.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\bin\Debug\net9.0\Atividade 2 - Sistema de Funcionarios.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\obj\Debug\net9.0\Atividade 2 - Sistema de Funcionarios.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\obj\Debug\net9.0\refint\Atividade 2 - Sistema de Funcionarios.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\obj\Debug\net9.0\Atividade 2 - Sistema de Funcionarios.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\obj\Debug\net9.0\Atividade 2 - Sistema de Funcionarios.genruntimeconfig.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 2 - Sistema de Funcionarios\obj\Debug\net9.0\ref\Atividade 2 - Sistema de Funcionarios.dll
