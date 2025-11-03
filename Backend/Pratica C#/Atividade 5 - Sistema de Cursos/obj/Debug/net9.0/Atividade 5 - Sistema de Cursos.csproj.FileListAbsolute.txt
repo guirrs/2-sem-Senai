@@ -1,0 +1,15 @@
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 5 - Sistema de Cursos\obj\Debug\net9.0\Atividade 5 - Sistema de Cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 5 - Sistema de Cursos\obj\Debug\net9.0\Atividade 5 - Sistema de Cursos.AssemblyInfoInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 5 - Sistema de Cursos\obj\Debug\net9.0\Atividade 5 - Sistema de Cursos.AssemblyInfo.cs
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 5 - Sistema de Cursos\obj\Debug\net9.0\Atividade 5 - Sistema de Cursos.csproj.CoreCompileInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 5 - Sistema de Cursos\obj\Debug\net9.0\Atividade 5 - Sistema de Cursos.sourcelink.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 5 - Sistema de Cursos\bin\Debug\net9.0\Atividade 5 - Sistema de Cursos.exe
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 5 - Sistema de Cursos\bin\Debug\net9.0\Atividade 5 - Sistema de Cursos.deps.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 5 - Sistema de Cursos\bin\Debug\net9.0\Atividade 5 - Sistema de Cursos.runtimeconfig.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 5 - Sistema de Cursos\bin\Debug\net9.0\Atividade 5 - Sistema de Cursos.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 5 - Sistema de Cursos\bin\Debug\net9.0\Atividade 5 - Sistema de Cursos.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 5 - Sistema de Cursos\obj\Debug\net9.0\Atividade 5 - Sistema de Cursos.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 5 - Sistema de Cursos\obj\Debug\net9.0\refint\Atividade 5 - Sistema de Cursos.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 5 - Sistema de Cursos\obj\Debug\net9.0\Atividade 5 - Sistema de Cursos.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 5 - Sistema de Cursos\obj\Debug\net9.0\Atividade 5 - Sistema de Cursos.genruntimeconfig.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Pratica C#\Atividade 5 - Sistema de Cursos\obj\Debug\net9.0\ref\Atividade 5 - Sistema de Cursos.dll
