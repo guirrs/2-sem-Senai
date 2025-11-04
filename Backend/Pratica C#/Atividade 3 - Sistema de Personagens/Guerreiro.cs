@@ -9,7 +9,7 @@ namespace Atividade_3___Sistema_de_Personagens
     {
         public string NomeGuerreiro { get; set; }
 
-        private int 
+        private int NivelGuerreiroPersonagem
          {get; set;}
         public int NivelGuerreiro
         {

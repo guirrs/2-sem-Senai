@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atividade 2 - Sistema de Funcionarios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+593bcacfc0b808cc573f7e6015890eb6b8fc9e5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97836be858c092de77bba6ba370fa593a0157388")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atividade 2 - Sistema de Funcionarios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atividade 2 - Sistema de Funcionarios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
