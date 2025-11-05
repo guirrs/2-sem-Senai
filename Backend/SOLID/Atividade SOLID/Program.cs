@@ -10,9 +10,20 @@ class Program
         List<Veiculo> veiculo = new List<Veiculo>{Cart, Motoca};
         foreach (var veiculos in veiculo)
         {
+            Console.WriteLine("\n");
             veiculos.ExibirDetalhes();
+            veiculos.Ligar();
         }
 
-        Transporte busbus = new Onibus(2);
+        Transporte busbus = new Onibus(8000);
+        Transporte viao = new Aviao(8000);
+
+        List<Transporte> transportes = new List<Transporte>{busbus,viao};
+
+        foreach(var transporte in transportes)
+        {
+            Console.WriteLine("\n");
+            transporte.CalcularTempoViagem();
+        }
     }
 }

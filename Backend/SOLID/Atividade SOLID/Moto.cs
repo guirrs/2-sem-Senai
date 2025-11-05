@@ -5,9 +5,10 @@ using System.Threading.Tasks;
 
 namespace Atividade_SOLID
 {
-    public class Moto : Veiculo
+    public class Moto : Veiculo , ICombustivel
     {
         public int Cilindrada {get;set;}
+        public double Litro{get; set;}
 
         //* Com o base nao a necessidade de criar os atributos da Pai
         public Moto(string MarcaConstrutor, string ModeloConstrutor, int AnoConstrutor, int CilindradaConstrutor) 
@@ -17,5 +18,14 @@ namespace Atividade_SOLID
         }
         public override void Ligar() => Console.WriteLine($"A moto {Modelo} de {Cilindrada}cc está pronta!");
         public override void ExibirDetalhes() => Console.WriteLine($"Marca: {Marca}\nModelo: {Modelo}\nAno: {Ano}\nCilindradas: {Cilindrada}");
+
+        public void VerificarCombustivel() => Console.WriteLine($"Litros: {Litro}");
+
+        public double Abastecer(double LitrosInserido)
+        {
+            Litro += LitrosInserido;
+            Console.WriteLine($"Veiculo abastecido, litros: {Litro}");
+            return Litro;
+        }
     }
 }

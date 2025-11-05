@@ -7,12 +7,15 @@ namespace Atividade_SOLID
 {
     public class Onibus : Transporte
     {
-        public Onibus(double DistanciaConstrutor) : base(DistanciaConstrutor);
+        public Onibus(double DistanciaConstrutor) : base(DistanciaConstrutor)
+        {
+        }
         public double VelocidadeMedia = 60;
 
         public override double CalcularTempoViagem() 
         {
             TempoViagem = Distancia / VelocidadeMedia;
+            Console.WriteLine($"Tempo da viagem eh: {TempoViagem:F3}");
             return TempoViagem;
         }
     }
