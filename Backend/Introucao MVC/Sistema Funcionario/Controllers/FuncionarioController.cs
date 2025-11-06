@@ -26,7 +26,7 @@ namespace Sistema_Funcionario.Controllers
             //* ToList - Lista as informacoes dentro da tabela funcionario
             var lista = await _context.TabelaFuncionario.ToListAsync();
 
-            //* Retorna a view com a lisra de funcionarios no index
+            //* Retorna a view com a lista de funcionarios no index
             return View(lista);
         }
 

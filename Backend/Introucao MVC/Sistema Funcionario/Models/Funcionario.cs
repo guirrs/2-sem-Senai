@@ -13,11 +13,13 @@ namespace Sistema_Funcionario.Models
 
         //*[Required] Obriga o Usuario a por um valor ao atributo
         [Required] 
-        public string Nome{get;set;}
+        public string Nome{get;set;} = string.Empty;
 
         //* [Range] Defini um parametro para o valor
         [Range(0,10000)]
         public double SalarioBase;
+
+        public Funcionario() {}
 
         public Funcionario(string NomeConstrutor, double SalarioBaseConstrutor)
         {

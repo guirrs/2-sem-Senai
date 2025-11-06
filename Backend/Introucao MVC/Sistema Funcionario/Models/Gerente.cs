@@ -7,7 +7,7 @@ namespace Sistema_Funcionario.Models
 {
     public class Gerente : Funcionario
     {
-        public Gerente(){}
+        public Gerente() {}
 
         public Gerente(string NomeConstrutor, double SalarioBaseConstrutor) : base(NomeConstrutor, SalarioBaseConstrutor)
         {

@@ -1,7 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+using Sistema_Funcionario.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<AppDbContext>(options => 
+        options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoPadrao")));
 
 var app = builder.Build();
 
@@ -22,7 +28,7 @@ app.MapStaticAssets();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}")
+    pattern: "{controller=Funcionario}/{action=Index}/{id?}")
     .WithStaticAssets();
 
 

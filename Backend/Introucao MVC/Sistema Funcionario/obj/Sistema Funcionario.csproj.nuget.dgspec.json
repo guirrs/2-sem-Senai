@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\46336142825\\Desktop\\Sistema Funcionario\\Sistema Funcionario.csproj": {}
+    "C:\\Users\\46336142825\\Desktop\\Segundo Semestre\\Backend\\Introucao MVC\\Sistema Funcionario\\Sistema Funcionario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\46336142825\\Desktop\\Sistema Funcionario\\Sistema Funcionario.csproj": {
+    "C:\\Users\\46336142825\\Desktop\\Segundo Semestre\\Backend\\Introucao MVC\\Sistema Funcionario\\Sistema Funcionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\46336142825\\Desktop\\Sistema Funcionario\\Sistema Funcionario.csproj",
+        "projectUniqueName": "C:\\Users\\46336142825\\Desktop\\Segundo Semestre\\Backend\\Introucao MVC\\Sistema Funcionario\\Sistema Funcionario.csproj",
         "projectName": "Sistema Funcionario",
-        "projectPath": "C:\\Users\\46336142825\\Desktop\\Sistema Funcionario\\Sistema Funcionario.csproj",
+        "projectPath": "C:\\Users\\46336142825\\Desktop\\Segundo Semestre\\Backend\\Introucao MVC\\Sistema Funcionario\\Sistema Funcionario.csproj",
         "packagesPath": "C:\\Users\\46336142825\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\46336142825\\Desktop\\Sistema Funcionario\\obj\\",
+        "outputPath": "C:\\Users\\46336142825\\Desktop\\Segundo Semestre\\Backend\\Introucao MVC\\Sistema Funcionario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,6 +52,8 @@
           "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.10, )"
             },

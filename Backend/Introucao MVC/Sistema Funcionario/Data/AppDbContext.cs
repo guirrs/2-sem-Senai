@@ -20,7 +20,7 @@ namespace Sistema_Funcionario.Data
         //* Vai sobre escrever o mapeamento do modelo(uma unica tabela para funcionario)
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Funcionario>() //* Comeca a configutara a entidade base funcionario
+            modelBuilder.Entity<Funcionario>() //* Comeca a configurar a entidade base funcionario
             .HasDiscriminator<string>("Cargo") //* Cria uma unica tabela, diferenciando Gerente e vendendor pelo cargo
             .HasValue<Gerente>("Gerente")//*Quando a intancia foi gerente, grava gerente como cargo
             .HasValue<Vendedor>("Vendedor");//*Quando a instancia for vendedor, grava vendedor como cargo

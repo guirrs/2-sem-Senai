@@ -1,0 +1,20 @@
+@model Sistema_Funcionario.Models.Funcionario
+
+<h2>Cadastrar Funcionario</h2>
+
+<form asp-action="Criar">
+    <label for="">Nome</label>
+    <input type="text" name="nome" class="form-control">
+
+    <label SalarioBase></label>
+    @** Step controla a quantidade de casas decimais *@
+    <input type= "number" name="salarioBase" class="form-control" step="0.01">
+
+    <label>Cargo</label>
+    <Select name="cargo">
+        <option value="Gerente">Gerente</option>
+        <option value="Vendedor">Vendedor</option>
+    </Select>
+
+    <button type="submit" class="btn btn-sucess">Salvar</button>
+</form>

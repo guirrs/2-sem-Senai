@@ -1,4 +1,4 @@
-@model List<SistemaFuncionarioMVC.Models.Funcionario>
+@model List<Sistema_Funcionario.Models.Funcionario>
 
     <h2>Funcionarios</h2>
 
@@ -12,4 +12,17 @@
             <th>Salario Final</th>
             <th>Acoes</th>
         </tr>
+        @*? Toda vez que voce fizer um codigo de C# no cshtml, voce tem que usar '@' *@
+        @foreach(var funcionario in Model)
+        {
+            <tr>
+                <td>@funcionario.Nome</td>
+                <td>@funcionario.GetType().Name</td> @** Mostra o tipo de objeto funcionario (se eh gerente ou vendedor) *@
+                <td R$ @funcionario.SalarioBase></td>
+                <td R$ @funcionario.CalcularSalario()></td>
+                <td>
+                    <a asp-action="Deletar" asp-route-id="@funcionario.Id" class="btn btn-danger">Exluir</a>
+                </td>
+            </tr>
+        }
     </table>
