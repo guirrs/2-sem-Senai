@@ -17,7 +17,7 @@ namespace Sistema_Funcionario.Models
 
         //* [Range] Defini um parametro para o valor
         [Range(0,10000)]
-        public double SalarioBase;
+        public double SalarioBase{get;set;} 
 
         public Funcionario() {}
 
