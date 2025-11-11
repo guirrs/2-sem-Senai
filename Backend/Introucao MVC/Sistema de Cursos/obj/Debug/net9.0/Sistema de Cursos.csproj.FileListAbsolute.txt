@@ -1,0 +1,98 @@
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\bin\Debug\net9.0\appsettings.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\bin\Debug\net9.0\Sistema de Cursos.staticwebassets.runtime.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\bin\Debug\net9.0\Sistema de Cursos.staticwebassets.endpoints.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\bin\Debug\net9.0\Sistema de Cursos.exe
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\bin\Debug\net9.0\Sistema de Cursos.deps.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\bin\Debug\net9.0\Sistema de Cursos.runtimeconfig.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\bin\Debug\net9.0\Sistema de Cursos.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\bin\Debug\net9.0\Sistema de Cursos.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\Sistema de Cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\Sistema de Cursos.AssemblyInfoInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\Sistema de Cursos.AssemblyInfo.cs
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\Sistema de Cursos.csproj.CoreCompileInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\Sistema de Cursos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\Sistema de Cursos.RazorAssemblyInfo.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\Sistema de Cursos.RazorAssemblyInfo.cs
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\Sistema de Cursos.sourcelink.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\scopedcss\bundle\Sistema de Cursos.styles.css
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\scopedcss\projectbundle\Sistema de Cursos.bundle.scp.css
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\56jc3a3yz3-b9sayid5wm.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\62ia3ba8xu-61n19gt1b8.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\pezbvq2dta-xtxxf3hu2r.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\fwcfc7x90g-bqjiyaj88i.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\g1taze2v3i-c2jlpeoesf.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\6edf6g5s9p-erw9l3u2r3.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\nbhqgq6wrn-aexeepp0ev.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\kvnvxwu0f9-d7shbmvgxk.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\0re4iu4yv1-ausgxo2sd3.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\xz6q6p74t1-k8d9w2qqmf.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\f8dbiwz5f0-cosvhxvwiu.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\p7saombox1-ub07r2b239.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\bsiu6wgfb3-fvhpjtyr6v.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\uenfbay4cs-b7pk76d08c.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\38stnwfqt4-fsbi9cje9m.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\2971hi3ldz-rzd6atqjts.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\c6gxqs917v-ee0r1s7dh0.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\ht6s3wj6xi-dxx9fxp4il.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\jvopatf6ni-jd9uben2k1.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\i1vl5ckc2q-khv3u5hwcm.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\oeovfth2hl-r4e9w2rdcm.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\gp4p2nx28b-lcd1t2u6c8.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\0u9vibxbbw-c2oey78nd0.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\9cet2vf2ls-tdbxkamptv.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\l5njw27st2-j5mq2jizvt.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\0dll0q2mwd-06098lyss8.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\762wk038q0-nvvlpmu67g.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\a404a6pfv5-s35ty4nyc5.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\kyz5rxeciq-pj5nd1wqec.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\uw0l0ay8go-46ein0sx1k.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\1brqbtjt1b-v0zj4ognzu.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\k2a5cc7vc2-37tfw0ft22.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\5jf4rep1q5-hrwsygsryq.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\5ycac1fmpc-pk9g2wxc8p.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\2xvcbxf1pn-ft3s53vfgj.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\p60u3o6sep-6cfz1n2cew.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\ohjvicx5rw-6pdc2jztkx.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\ierr3w1qbd-493y06b0oq.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\7akocjz29g-iovd86k7lj.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\2fbthftgoc-vr1egmr9el.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\osq7t4daaa-kbrnm935zg.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\wp72prpn81-jj8uyg4cgr.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\uwbkjr371k-y7v9cxd14o.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\rc29zsdnsq-notf2xhcfb.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\dl317akk4u-h1s4sie4z3.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\xckkht54tw-63fj8s7r0e.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\lhc6obas1h-0j3bgjxly4.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\yytejp4w2r-47otxtyo56.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\0xrpyj0x29-4v8eqarkd7.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\c09e3m97uj-356vix0kms.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\ojkotk4j4c-83jwlth58m.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\ptnyqeztro-mrlpezrjn3.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\3wvu76vcbp-lzl9nlhx6b.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\0s88pp1ymt-ag7o75518u.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\acgdxr7hsc-x0q3zqp4vz.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\mydfjlsk23-0i3buxo5is.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\9at1sahmjh-o1o13a6vjx.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\gt8caiuqbb-ttgo8qnofa.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\pwbnzu4jn5-2z0ns9nrw6.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\rtiac6o8zp-muycvpuwrr.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\hd7zg6yjrk-87fc7y1x7t.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\jthp6ypfgx-mlv21k5csn.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\uo5sbk4d29-p9vakwcg4q.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\compressed\o7psdve510-p9vakwcg4q.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\Sistema de Cursos.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\refint\Sistema de Cursos.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\Sistema de Cursos.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\Sistema de Cursos.genruntimeconfig.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\ref\Sistema de Cursos.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Cursos\obj\Debug\net9.0\Sistema de Cursos.csproj.AssemblyReference.cache

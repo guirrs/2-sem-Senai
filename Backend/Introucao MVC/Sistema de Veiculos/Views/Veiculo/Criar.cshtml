@@ -1,0 +1,19 @@
+@model Sistema_de_Veiculos.Models.Veiculo
+
+<h2>Cadastrar Veiculo</h2>
+
+<form asp-action="Criar">
+    <label for= ""> Modelo</label>
+    <input type="text" name= "NomeConstrutor" class="form-control">
+
+    <label>Ano</label>
+    <input type="number" name="AnoConstrutor" class="form-control">
+
+    <label>Tipo</label>
+    <select name="TipoConstrutor">
+        <option value="Carro">Carro</option>
+        <option value="Moto">Moto</option>
+    </select>
+
+    <button type="submit" class="btn btn-sucess">Salvar</button>
+</form>

@@ -1,0 +1,20 @@
+@model Sistema_de_Cursos.Models.Curso
+
+<h2>Cadastrar Curso</h2>
+
+@* asp eh de ASP NET CORE *@
+<form asp-action="Criar">
+    <label>Nome:</label>
+    <input type="text" name="NomeConstrutor" class="form-control">
+
+    <label>Horas:</label>
+    <input type= "number" name="HorasConstrutor" class="form-control">
+
+    <label>Tipo de Curso</label>
+    <select name="TipoConstrutor" class="form-control">
+        <option value="Tecnico">Tecnico</option>
+        <option value="Superior">Superior</option>
+    </select>
+
+    <button type = "submit" class="btn btn-sucess">Salvar</button>
+</form>
