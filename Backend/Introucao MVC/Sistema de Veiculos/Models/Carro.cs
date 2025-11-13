@@ -13,11 +13,11 @@ namespace Sistema_de_Veiculos.Models
         public Carro(string ModeloConstrutor, int AnoConstrutor) : base(ModeloConstrutor, AnoConstrutor)
         {
 
-            custo = 500;
+            // custo = 500;
         }
         public override double CalcularRevisao()
         {
-            return custo;
+            return custo = 500;
         }
     }
 }

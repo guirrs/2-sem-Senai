@@ -1,0 +1,29 @@
+@model List<Sistema_de_Animais.Models.Animal>
+
+    <h2>Cursos</h2>
+
+    <a asp-action="Criar" class="btn btn-primary">Novo Curso</a>
+
+    <table class="table mt-3">
+        <tr>
+            <th>Nome</th>
+            <th>Animal</th>
+            <th>Som</th>
+            <th>Alimentacao</th>
+            <th>Acoes</th>
+            
+        </tr>
+
+        @foreach(var animal in Model)
+        {
+            <tr>
+                <td>@animal.Nome</td>
+                <td>@animal.GetType().Name</td>
+                <td>@animal.EmitirSom()</td>
+                <td>@animal.TipoAlimentacao()</td>
+                <td>
+                    <a asp-action="Deletar" asp-route-id = "@animal.Id" class="btn btn-danger">Exluir</a>
+                </td>
+            </tr>
+        }
+    </table>

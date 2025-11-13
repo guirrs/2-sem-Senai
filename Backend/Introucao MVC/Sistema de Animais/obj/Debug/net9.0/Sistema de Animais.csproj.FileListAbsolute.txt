@@ -1,0 +1,203 @@
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.csproj.AssemblyReference.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.AssemblyInfoInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.AssemblyInfo.cs
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.csproj.CoreCompileInputs.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.RazorAssemblyInfo.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.RazorAssemblyInfo.cs
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.sourcelink.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\appsettings.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Sistema de Animais.staticwebassets.runtime.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Sistema de Animais.staticwebassets.endpoints.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Sistema de Animais.exe
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Sistema de Animais.deps.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Sistema de Animais.runtimeconfig.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Sistema de Animais.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Sistema de Animais.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Humanizer.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\scopedcss\bundle\Sistema de Animais.styles.css
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\scopedcss\projectbundle\Sistema de Animais.bundle.scp.css
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\5y60vt6ue3-b9sayid5wm.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\qkmqxzofz7-61n19gt1b8.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\96njfbkhtz-xtxxf3hu2r.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\efla8w36h0-bqjiyaj88i.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\dx8d4i3s8f-c2jlpeoesf.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\bk5vbot35n-erw9l3u2r3.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\wmk8gs4r8o-aexeepp0ev.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\40wnikf7yw-d7shbmvgxk.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\nb5vwlgdl0-ausgxo2sd3.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\h8rittymqt-k8d9w2qqmf.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\v7y13lk1rc-cosvhxvwiu.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\pe2olr4l4x-ub07r2b239.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\5rz7zxrzmb-fvhpjtyr6v.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\ly6ymp2gge-b7pk76d08c.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\0qs8yyabjs-fsbi9cje9m.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\j5ul9qebjr-rzd6atqjts.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\s3vt86vz5l-ee0r1s7dh0.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\pkmuygwzpy-dxx9fxp4il.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\cr332ydsdz-jd9uben2k1.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\5t7kspmbqc-khv3u5hwcm.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\xap344kiiq-r4e9w2rdcm.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\m7r0p0l41b-lcd1t2u6c8.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\pnqsft32y6-c2oey78nd0.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\aro2gnwi1j-tdbxkamptv.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\8ar7c3ka4i-j5mq2jizvt.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\k14xt3fxx1-06098lyss8.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\e4mdrugar5-nvvlpmu67g.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\n8nzf2tst8-s35ty4nyc5.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\xwhgv5uvy3-pj5nd1wqec.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\fbpf4iwa2c-46ein0sx1k.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\03nkpggcif-v0zj4ognzu.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\rzoh8jmypm-37tfw0ft22.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\fvqgr5uzn1-hrwsygsryq.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\u0ct8rldo3-pk9g2wxc8p.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\fff9citzmf-ft3s53vfgj.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\ng1ffz3cj3-6cfz1n2cew.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\nal8n5uiao-6pdc2jztkx.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\2plrmw5nl4-493y06b0oq.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\a9rzwrsr3b-iovd86k7lj.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\vqroxsf594-vr1egmr9el.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\kr0thl2iw6-kbrnm935zg.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\4no5ol7z69-jj8uyg4cgr.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\9ackb5xa1o-y7v9cxd14o.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\ilxm4tx1ts-notf2xhcfb.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\z72zkamore-h1s4sie4z3.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\d8f6e7mlt8-63fj8s7r0e.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\gcyixfjsgw-0j3bgjxly4.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\0znwfnqmuj-47otxtyo56.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\h1zzn4kykf-4v8eqarkd7.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\w8o2eublm4-356vix0kms.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\hgmrkvi60r-83jwlth58m.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\iop4oixkfi-mrlpezrjn3.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\i300z3q7fl-lzl9nlhx6b.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\4zjef9831q-ag7o75518u.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\9hpwpm2y08-x0q3zqp4vz.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\o3a9kme1sc-0i3buxo5is.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\g5te1gfcqu-o1o13a6vjx.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\zf11nmk39f-ttgo8qnofa.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\zhikv5rb4z-2z0ns9nrw6.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\ysf8tj39hw-muycvpuwrr.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\k9w5st1n99-87fc7y1x7t.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\x0yavplcoq-mlv21k5csn.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\k3xgr1k9aa-5hw8p91i3f.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\compressed\plsoue3h93-5hw8p91i3f.gz
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\Sistema .01ECB65C.Up2Date
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\refint\Sistema de Animais.dll
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.pdb
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\Sistema de Animais.genruntimeconfig.cache
+C:\Users\46336142825\Desktop\Segundo Semestre\Backend\Introucao MVC\Sistema de Animais\obj\Debug\net9.0\ref\Sistema de Animais.dll

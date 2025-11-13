@@ -11,11 +11,11 @@ namespace Sistema_de_Veiculos.Models
         public Moto() {}
         public Moto(string ModeloConstrutor, double AnoConstrutor) : base(ModeloConstrutor, AnoConstrutor)
         {
-            custo = 200;
+            // custo = 200;
         }
         public override double CalcularRevisao()
         {
-            return custo;
+            return custo = 200;
         }
     }
 }
