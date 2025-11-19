@@ -54,24 +54,12 @@ namespace Sistema_de_Personagens.Migrations
                 {
                     b.HasBaseType("Sistema_de_Personagens.Models.Personagem");
 
-                    b.Property<double>("Dano")
-                        .HasColumnType("float");
-
-                    b.ToTable("TabelaPersonagem", t =>
-                        {
-                            t.Property("Dano")
-                                .HasColumnName("Guerreiro_Dano");
-                        });
-
                     b.HasDiscriminator().HasValue("Guerreiro");
                 });
 
             modelBuilder.Entity("Sistema_de_Personagens.Models.Mago", b =>
                 {
                     b.HasBaseType("Sistema_de_Personagens.Models.Personagem");
-
-                    b.Property<double>("Dano")
-                        .HasColumnType("float");
 
                     b.HasDiscriminator().HasValue("Mago");
                 });
